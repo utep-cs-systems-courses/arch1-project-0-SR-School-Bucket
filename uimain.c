@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "draw.h"
 
+//main method
 int main() 
 {
   puts("Welcome!");

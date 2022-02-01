@@ -4,6 +4,7 @@
 //main method
 int main() 
 {
+  //Welcom message
   puts("Welcome!");
 
   while (1) { // Infinite while loop
